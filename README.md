@@ -1,2 +1,7 @@
-# UNIVERSITY
-sysintg second repository for project
+# PROJECT
+Fantastic 4
+
+Cereno
+Medina
+-Mendoza
+Tanenggee
